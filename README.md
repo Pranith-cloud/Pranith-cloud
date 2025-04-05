@@ -19,7 +19,7 @@
 
 ## 🚀 Projects
 
-### 🔹 [LendingClub-Loan-Risk-Analysis](https://github.com/pranith-cloud/LendingClub-Loan-Risk-Analysis)
+### 🔹 [LendingClub-Loan-Risk-Analysis](https://github.com/Pranith-cloud/lending-club-project.git)
 Loan data cleaning, scoring, and risk analysis using PySpark on Databricks.
 
 ### 🔹 Power BI Dashboards *(Coming Soon)*
